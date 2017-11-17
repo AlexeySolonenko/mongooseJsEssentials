@@ -1,0 +1,29 @@
+{
+  "name": "mongoosejsessentials",
+  "version": "1.0.0",
+  "description": "MongooseJS Essential Udemy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "run": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeySolonenko/mongooseJsEssentials.git"
+  },
+  "keywords": [
+    "mongoosejs"
+  ],
+  "author": "Alexey Solonenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeySolonenko/mongooseJsEssentials/issues"
+  },
+  "homepage": "https://github.com/AlexeySolonenko/mongooseJsEssentials#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.4",
+    "nodemon": "^1.12.1"
+  }
+}
