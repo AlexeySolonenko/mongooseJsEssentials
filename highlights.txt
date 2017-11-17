@@ -1,0 +1,13 @@
+1) Schema has a collection property that MUST correspond with the name of some real collection
+2) Do not know yet - need to check React+Redux how to populate a collection - was created
+manually also
+MDN has a file for populate - rather complicated, 
+otherwise - ? manually only? why local db creates automatically
+3) MongoDB is operated through standard HTTP requests - need to take a course on it.
+4) Installed postman - in other course used Axios - need to take one on axios also
+5) Manipulated, queried collections, deleted, added, modified.
+6) Need to rehearsal sometimes the Schema design
+if Schema properties do not match mlab -so what?
+
+certificate
+https://www.udemy.com/certificate/UC-QTQBBJ1C/
